@@ -1,0 +1,13 @@
+name = "SpectralEmulator"
+uuid = "4919bc8e-0fe7-438d-80f1-016247895761"
+authors = ["Miles Lucas <mdlucas@hawaii.edu>"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
